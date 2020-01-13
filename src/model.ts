@@ -1,4 +1,4 @@
-export class Point {
+export class Device {
 	constructor(public x: number, public y: number) {}
 }
 
