@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test-nordcloud/precache-manifest.5f021712f5f13519e276e8d9246e4a7e.js"
+  "/test-nordcloud/precache-manifest.163b3d3ce2a5b5109e655982e6970c91.js"
 );
 
 self.addEventListener('message', (event) => {

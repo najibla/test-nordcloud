@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test-nordcloud/static/css/main.072720d4.chunk.css",
-    "main.js": "/test-nordcloud/static/js/main.818cecf9.chunk.js",
+    "main.css": "/test-nordcloud/static/css/main.5f16823c.chunk.css",
+    "main.js": "/test-nordcloud/static/js/main.fcf4ec7f.chunk.js",
     "runtime-main.js": "/test-nordcloud/static/js/runtime-main.a0318419.js",
-    "static/js/2.da755f6b.chunk.js": "/test-nordcloud/static/js/2.da755f6b.chunk.js",
+    "static/js/2.c0698a15.chunk.js": "/test-nordcloud/static/js/2.c0698a15.chunk.js",
     "index.html": "/test-nordcloud/index.html",
-    "precache-manifest.5f021712f5f13519e276e8d9246e4a7e.js": "/test-nordcloud/precache-manifest.5f021712f5f13519e276e8d9246e4a7e.js",
+    "precache-manifest.163b3d3ce2a5b5109e655982e6970c91.js": "/test-nordcloud/precache-manifest.163b3d3ce2a5b5109e655982e6970c91.js",
     "service-worker.js": "/test-nordcloud/service-worker.js",
-    "static/js/2.da755f6b.chunk.js.LICENSE": "/test-nordcloud/static/js/2.da755f6b.chunk.js.LICENSE"
+    "static/js/2.c0698a15.chunk.js.LICENSE": "/test-nordcloud/static/js/2.c0698a15.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.a0318419.js",
-    "static/js/2.da755f6b.chunk.js",
-    "static/css/main.072720d4.chunk.css",
-    "static/js/main.818cecf9.chunk.js"
+    "static/js/2.c0698a15.chunk.js",
+    "static/css/main.5f16823c.chunk.css",
+    "static/js/main.fcf4ec7f.chunk.js"
   ]
 }
